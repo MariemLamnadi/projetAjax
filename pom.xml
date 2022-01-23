@@ -53,7 +53,7 @@
                             <artifactItem>
                                 <groupId>com.heroku</groupId>
                                 <artifactId>WebContent-runner</artifactId>
-                               
+                                   <version>9.0.52.1</version>
                                 <destFileName>WebContent-runner.jar</destFileName>
                             </artifactItem>
                         </artifactItems>
