@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/WebContent-runner.jar --port $PORT target/*.war
+web: java $JAVA_OPTS -jar pom.xml/dependency/WebContent-runner.jar --port $PORT target/*.war
